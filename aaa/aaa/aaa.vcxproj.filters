@@ -15,10 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\Project1\Project1\Source.cpp">
+    <ClCompile Include="..\..\..\..\..\Desktop\Project1\Project1\1-1.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\Project1\Project1\Source1.cpp">
+    <ClCompile Include="..\..\..\..\..\Desktop\Project1\Project1\1-2.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="2-1.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
